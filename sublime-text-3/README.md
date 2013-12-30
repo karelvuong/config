@@ -17,12 +17,12 @@ Packages and associated settings I use in Sublime Text 3.
 #### Preference Editor
 
 #### SublimeLinter
-##### SublimeLinter-annotations
-##### SublimeLinter-coffeelint
-##### SublimeLinter-csslint
-##### SublimeLinter-html-tidy
-##### SublimeLinter-jsl
-##### SublimeLinter-json
+* ##### SublimeLinter-annotations
+* ##### SublimeLinter-coffeelint
+* ##### SublimeLinter-csslint
+* ##### SublimeLinter-html-tidy
+* ##### SublimeLinter-jsl
+* ##### SublimeLinter-json
 
 #### Trimmer
 
