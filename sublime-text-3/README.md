@@ -9,6 +9,9 @@ Packages and associated settings I use in Sublime Text 3.
 ## Packages
 
 #### Package Control
+[Link](https://sublime.wbond.net/installation)
+
+From here on out, the rest of the packages are installed using Package Control in Sublime Text 3. You can search for these with cmd+shift+p or Tools > Command Palette.
 
 #### Browser Refresh
 
@@ -17,6 +20,7 @@ Packages and associated settings I use in Sublime Text 3.
 #### Preference Editor
 
 #### SublimeLinter
+
 ##### SublimeLinter-annotations
 ##### SublimeLinter-coffeelint
 ##### SublimeLinter-csslint
