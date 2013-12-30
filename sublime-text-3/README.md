@@ -10,7 +10,7 @@ Packages and associated settings I use in Sublime Text 3.
 
 #### Package Control - [Link](https://sublime.wbond.net/installation)
 
-From here on out, the rest of the packages are installed using Package Control in Sublime Text 3. You can search for these packages using the menu item `Tools > Command Palette` or with `cmd+shift+p` on a Mac.
+From here on out, the rest of the packages are installed using Package Control in Sublime Text 3. You can search for these packages using the menu item `Tools > Command Palette` or with `cmd+shift+p` on a Mac then typing 'install' and selecting 'Package Control: Install Package'.
 
 #### Browser Refresh
 
