@@ -1,4 +1,9 @@
-settings
-========
+# Sublime Text 3
 
-A selection of my personal settings for various programs and tools.
+Packages and associated settings I use in Sublime Text 3.
+
+## Packages
+
+### Browser Refresh
+
+## Settings
