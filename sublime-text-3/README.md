@@ -8,9 +8,21 @@ Packages and associated settings I use in Sublime Text 3.
 
 ## Packages
 
-### Browser Refresh
+#### Package Control
+
+#### Browser Refresh
+
+#### LESS
+
+#### Preference Editor
+
+#### SublimeLinter
+
+#### Trimmer
 
 ## Settings
+
+#### Settings - User
 ```json
 {
     "bold_folder_labels": true,
