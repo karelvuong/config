@@ -20,24 +20,23 @@ From here on out, the rest of the packages are installed using Package Control i
 #### Settings - User
 ```json
 {
-    "bold_folder_labels": true,
-    "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-    "draw_white_space": "all",
-    "font_face": "Monaco",
-    "font_size": 10,
-    "ignored_packages":
-    [
-        "Vintage"
-    ],
-    "open_files_in_new_window": false,
-    "rulers":
-    [
-        80
-    ],
-    "tab_size": 4,
-    "theme": "Spacegray.sublime-theme",
-    "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"draw_white_space": "all",
+	"font_face": "Monaco",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
-
 ```
