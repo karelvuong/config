@@ -23,8 +23,20 @@ From here on out, the rest of the packages are installed using Package Control i
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"bower_components",
+		"node_modules",
+		"tmp"
+	],
 	"font_face": "Monaco",
 	"font_size": 10,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
