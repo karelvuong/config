@@ -11,9 +11,16 @@ From here on out, the rest of the packages are installed using Package Control i
 1. Bring up the Command Palette with the menu item `Tools > Command Palette` or with `cmd+shift+p` on a Mac
 2. Type "install" and select "Package Control: Install Package"
 
-* Browser Refresh
+* AngularJS
+* Babel
+* Better CoffeeScript
+* BracketHighlighter
+* GitGutter
+* Handlebars
+* HTML-CSS-JS Prettify
+* Inc-Dec-Value
 * LESS
-* Preference Editor
+* SCSS
 
 ## Settings
 
