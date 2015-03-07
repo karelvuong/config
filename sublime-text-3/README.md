@@ -33,10 +33,10 @@ From here on out, the rest of the packages are installed using Package Control i
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
+		".sass-cache",
 		".svn",
 		".git",
 		".hg",
-		"CVS",
 		"bower_components",
 		"node_modules",
 		"tmp"
@@ -46,6 +46,7 @@ From here on out, the rest of the packages are installed using Package Control i
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"CSS",
 		"Vintage"
 	],
 	"open_files_in_new_window": false,
