@@ -1,0 +1,9 @@
+welcome:
+  showOnStartup: false
+editor:
+  invisibles: {}
+  fontSize: 10
+  fontFamily: "Monaco"
+  showIndentGuide: true
+  softWrapAtPreferredLineLength: true
+  softWrap: true
