@@ -1,9 +1,14 @@
-welcome:
-  showOnStartup: false
-editor:
-  invisibles: {}
-  fontSize: 10
-  fontFamily: "Monaco"
-  showIndentGuide: true
-  softWrapAtPreferredLineLength: true
-  softWrap: true
+"*":  
+  welcome:
+    showOnStartup: false
+  core:
+    projectHome: "/Users/karelvuong/Workspaces"
+  editor:
+    invisibles:
+      {}
+    fontFamily: "Monaco"
+    showIndentGuide: true
+    softWrapAtPreferredLineLength: true
+    softWrap: true
+    fontSize: 10
+    showInvisibles: true
