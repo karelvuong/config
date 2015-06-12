@@ -11,8 +11,9 @@ A selection of my personal settings for various programs and tools.
 - Spectacle
 
 nvm
-nvm install iojs
-nvm alias default iojs
+- nvm install iojs
+- nvm alias default iojs
 
 rbenv
+
 git config --global credential.helper osxkeychain
